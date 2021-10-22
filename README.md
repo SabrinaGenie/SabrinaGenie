@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SabrinaGenie
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OpenClassrooms's projects ;)
 - 📫 How to reach me by mail : sab.genieyz@gmail.com
 
 <!---
