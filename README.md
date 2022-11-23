@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SabrinaGenie
-- 👀 I’m interested in web development and I like above all web design & especially UW Design !
+- 👀 I’m interested in web development and I like above all web design & especially UX Design !
 - 💼 Here is my portfolio : https://sabrinagenie.github.io/portfolio/
 - 🌱 I know HTML, CSS, SCSS, JavaScript, VUE.JS
 - 💞️ I’m looking to collaborate on OpenClassrooms's projects ;)
